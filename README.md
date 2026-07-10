@@ -1,6 +1,6 @@
-# 🪔 Diwali Sales Analysis
+#  Diwali Sales Analysis
 
-## 📌 About the Project
+##  About the Project
 
 This project is based on the Diwali Sales dataset. The main objective of this project is to analyze customer purchasing behavior during the Diwali festival and find useful business insights using Python.
 
@@ -8,7 +8,7 @@ In this project, I performed data cleaning, data visualization, and exploratory 
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - Jupyter Notebook
@@ -19,7 +19,7 @@ In this project, I performed data cleaning, data visualization, and exploratory 
 
 ---
 
-## 📊 What I Did
+##  What I Did
 
 - Loaded the dataset
 - Cleaned the data by removing unnecessary columns and null values
@@ -30,7 +30,7 @@ In this project, I performed data cleaning, data visualization, and exploratory 
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Female customers purchased more products than male customers.
 - Customers between the age of **26–35 years** contributed the highest sales.
@@ -39,13 +39,13 @@ In this project, I performed data cleaning, data visualization, and exploratory 
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This analysis shows that businesses can improve their festive sales by targeting married women aged 26–35 years, especially in Uttar Pradesh, Maharashtra, and Karnataka.
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 - Diwali_Sales_Analysis.ipynb
 - Diwali Sales Data.csv
@@ -53,10 +53,9 @@ This analysis shows that businesses can improve their festive sales by targeting
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Raman Kumar**
 
 Aspiring Data Analyst
-
-⭐ Thank you for visiting this repository. If you like this project, don't forget to give it a Star!
+ Thank you for visiting this repository. If you like this project, don't forget to give it a Star!
